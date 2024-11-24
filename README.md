@@ -58,7 +58,7 @@ Refer to the [sample catalog](resources/products.json) file for a full example.
 
 5. Upload User Events to Cloud Storage
 
-   [code sample] (setup/events-create-gcs-bucket.js)
+   [Code sample](setup/events-create-gcs-bucket.js)
 
 6. Import User Events from Cloud Storage
 
